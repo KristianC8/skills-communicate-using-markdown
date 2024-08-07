@@ -8,3 +8,8 @@
 Add headers
 
 ![batman](https://i.postimg.cc/Gpmm1P61/Bat.jpg)
+
+``` javascript
+var message = "Hello World"
+console.log(message.split(5))
+```
