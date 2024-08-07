@@ -13,3 +13,7 @@ Add headers
 var message = "Hello World"
 console.log(message.split(5))
 ```
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [x] Task 4
